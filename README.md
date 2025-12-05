@@ -14,5 +14,8 @@ Destructuring
 Map/Filter method
  - able to effectively apply and understand its functionality.
 
+localStorage
+ - I tried to integrate and learned the basic of it.
+
 
 
